@@ -3,11 +3,11 @@
 html{
     scroll-behavior: smooth;
     font-family: Montserrat,sans-serif;
-    height: 2655px;
+    height: 100%
     color: rgb(0, 0, 0);
 }
 body{
-    background: linear-gradient(#272635, #353445,#525161,#6f6e7e) ;
+    background-color: #272635;
 
     margin-top: 70px;
     display: flex; align-items: center; justify-content: center;
